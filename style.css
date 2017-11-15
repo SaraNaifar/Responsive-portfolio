@@ -1,0 +1,175 @@
+*{
+	box-sizing: border-box;
+}
+
+html{
+	background-image: url(images/background.jpg);
+}
+
+body{
+	margin:0;
+}
+
+/* **************CSS HEADER***************** */
+header{
+	background-color: rgba(22, 75, 127, 0.53);
+
+}
+
+.logo-header{
+	width: 82px;
+	height: auto;
+}
+
+.nav-header{
+	padding-right: 162px;
+	padding-top: 15px;
+	float: right;
+
+}
+
+nav li {
+	display: inline;
+	text-align: center;
+	font-size: 1rem;
+	font-family: 'Roboto Condensed', sans-serif;
+	margin-right: 76px;
+
+}
+a {
+	color: white;
+	font-weight: 80px;
+}
+
+
+
+/**********MAIN CSS***********************/
+main{
+	background-color: white;
+	margin: auto;
+	width:     1053px
+	
+}
+
+/***************SECTION1 CSS ***************/
+
+.section-design{
+	background-color: rgb(100, 116, 132);
+	height: 191px;
+}
+
+.personel-img{
+
+	float: right;
+	width: 138px;
+	padding-top: 15px;
+	padding-right: 15px;
+	border-radius: 50%;
+	
+}
+
+.about-me{
+	text-align: center;
+	color:white;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+
+/****************SECTION2 CSS*************************/
+
+h1{
+	text-align: center;
+	color:  grey;
+	font-family:    "Courier New", Courier, monospace;
+}
+.hr2{
+	background-color:  grey;
+	height: 7px;
+	margin-left: 200px;
+	margin-right: 200px;
+	float: center;
+}
+
+.hr1{
+	background-color:  grey;
+	height: 7px;
+	margin-left: 101px;
+	margin-right: 200px;
+	float: center;
+}
+
+.references{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+
+/* *************FORUM CSS***************************/
+form input{
+	display: block;
+}
+form div {
+	margin-top: 1em;
+}
+.formulaire{
+	width:     387px;
+	margin-left: 109px;
+	float:left;
+	
+}
+.description{
+	width: 419px;
+	float: right;
+	margin-right: 101px;
+
+}
+.contact{
+	overflow: auto;
+}
+.contact-me {
+	text-align: justify;
+
+}
+.about-me{
+	text-align: center;
+}
+input:focus {
+	outline: 0;
+}
+
+/****************FOOTER CSS*************************/
+.social-media{
+	height:191px;
+	background-color:rgb(100, 116, 132);
+	color:white;
+}
+.rights{
+	background-color: rgba(22, 75, 127, 0.53);
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align: center;
+	color:white;
+}
+.abouthispage{
+	width:     387px;
+	
+	float:left;
+	    margin-left: 202px;
+    margin-top: 47px;
+
+}
+.aroundtheweb{
+	width: 419px;
+	float: right;
+	 margin-right: -50px;
+    margin-top: 47px;
+
+}
+
+
+
+/***************************************************/

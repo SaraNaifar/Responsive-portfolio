@@ -1,0 +1,62 @@
+
+/************************************************************
+*************************Footer******************************
+*************************************************************/
+
+/*@import url(http://fonts.googleapis.com/css?family=Fjalla+One);*/
+/*@import url(http://fonts.googleapis.com/css?family=Gudea);*/
+.rw{
+    margin-bottom: 20px;
+}
+.full {
+    width: 100%;    
+}
+
+.my-profil-grid{
+    text-align: center;
+}
+
+
+main{
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 98, 204, 0.16);
+    padding-bottom: 20px;
+}
+
+
+.my-nav-item {
+    margin-left: 50px;
+}
+
+
+.footer-bg{
+    background-color: #f8f9fa;
+    padding-bottom: 1px;
+}
+.footer-bg1{
+    background-color: rgba(39, 15, 185, 0.25);
+    padding-bottom: 32px;
+}
+.about , .portfolio , .contact {
+
+    margin-left: 100px;
+}
+
+.github , .quora , .freecodecamp{
+   
+    display: inline-block;
+}
+
+i{
+    color: black;
+}
+.card1 , .card2 , .card3 , .card4 , .card5 , .card6{
+
+height: 100%;
+
+}
+.card4 , .card5 , .card6{    margin-top: 20px;
+}
+.contactsection{    margin-top: 26px;}
